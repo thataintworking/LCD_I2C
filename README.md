@@ -1,6 +1,5 @@
-# LiquidCrystal_I2C
+# LCD_I2C
 
-LiquidCrystal Arduino library for I2C LCD displays
+Arduino library for YwRobot LCM1602 I2C LCD displays
 
-**Status: Archived** 
-This repository has been transfered to GitLab at https://gitlab.com/tandembyte/LCD_I2C
+This library is based on the work done by Frank de Brabander https://github.com/marcoschwartz/LiquidCrystal_I2C
